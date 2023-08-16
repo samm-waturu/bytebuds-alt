@@ -1,0 +1,568 @@
+@media (min-width: 992px) {
+    .container {
+        padding-right: 0;
+        padding-left: 0
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .theme-main-menu {
+        padding-left: 35px;
+        padding-right: 35px
+    }
+
+    .vcamp-text-block-one .text-wrapper {
+        padding-left: 35px
+    }
+
+    .page-scroll-element-one .social-elemnet {
+        right: -75px
+    }
+
+    .page-scroll-element-one .scroll-bar {
+        left: 40px
+    }
+
+    .page-scroll-element-one .section-no {
+        left: 30px
+    }
+
+    .spl-section-one .category-list li {
+        font-size: 80px
+    }
+
+    .spl-section-one .carousel-inner {
+        padding-right: 50px
+    }
+}
+
+@media (max-width: 1199px) {
+    body {
+        font-size: 16px
+    }
+
+    .text-lg {
+        font-size: 18px;
+        line-height: 1.85em
+    }
+
+    body .theme-btn-one {
+        font-size: 16px;
+        padding: 0 32px;
+        line-height: 52px
+    }
+
+    .title-style-one .title {
+        font-size: 45px
+    }
+
+    .page-scroll-element-one .scroll-bar, .page-scroll-element-one .social-elemnet {
+        display: none
+    }
+
+    .address-block-one .icon {
+        width: 70px;
+        height: 70px;
+        padding: 20px
+    }
+
+    .address-block-one .title {
+        font-size: 22px
+    }
+
+    .address-block-one p {
+        font-size: 18px
+    }
+
+    .page-scroll-element-one .section-no {
+        display: none;
+        left: 10px;
+        font-size: 17px
+    }
+
+    .vcamp-text-block-one .text-wrapper h6 {
+        font-size: 20px;
+        padding: 35px 0 12px
+    }
+
+    .ui-list-item-one li {
+        font-size: 17px;
+        margin-bottom: 28px;
+        padding-left: 35px
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    h1 {
+        font-size: 80px
+    }
+
+    .theme-main-menu {
+        padding-left: 20px;
+        padding-right: 20px
+    }
+
+    .vcamp-text-block-one .text-wrapper {
+        padding-left: 40px
+    }
+
+    .spl-section-one .category-list li {
+        font-size: 65px;
+        line-height: 1.2em
+    }
+
+    #page-scroll-container-one .section {
+        padding-top: 60px
+    }
+}
+
+@media (max-width: 991px) {
+    h1 {
+        font-size: 60px
+    }
+
+    .theme-main-menu {
+        padding: 18px 12px
+    }
+
+    .vcamp-text-block-one .img-container {
+        padding: 50px 0 40px
+    }
+
+    #page-scroll-container-one .section {
+        padding-top: 100px
+    }
+
+    .spl-section-one .category-list li {
+        font-size: 45px;
+        line-height: 1.3em
+    }
+
+    .spl-section-one .category-list {
+        margin-bottom: 40px
+    }
+
+    .spl-section-one .carousel-indicators {
+        bottom: 104%;
+        justify-content: center
+    }
+}
+
+@media (max-width: 767px) {
+    .offcanvas.sidebar-nav {
+        padding: 20px;
+        width: 380px
+    }
+
+    .sidebar-nav .sidebar-nav-item {
+        padding: 30px 0 40px
+    }
+
+    .sidebar-nav .address-block .title {
+        font-size: 18px
+    }
+
+    .sidebar-nav .address-block p {
+        font-size: 16px;
+        padding-bottom: 15px
+    }
+
+    .sidebar-nav .sidebar-nav-item .nav-item > a {
+        font-size: 20px
+    }
+}
+
+@media (max-width: 575px) {
+    .offcanvas.sidebar-nav {
+        width: 90vw
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        padding-right: 0;
+        padding-left: 0
+    }
+}
+
+@media (max-width: 1199px) {
+    body {
+        font-size: 16px
+    }
+
+    .title-style-one .title {
+        font-size: 45px
+    }
+
+    .title-style-four .title {
+        font-size: 42px
+    }
+
+    .vcamp-footer-one.dark-bg {
+        padding-top: 180px
+    }
+
+    .case-study-one {
+        padding: 120px 0 90px
+    }
+
+    .case-details-one {
+        padding: 120px 0 70px
+    }
+
+    .case-details-one .sub-heading {
+        font-size: 14px;
+        margin-bottom: 15px
+    }
+
+    .case-details-one .title {
+        font-size: 40px;
+        padding-bottom: 25px
+    }
+
+    .case-details-one p {
+        font-size: 18px;
+        padding-bottom: 15px
+    }
+
+    .case-details-one .img-meta {
+        margin: 15px 0 50px
+    }
+
+    .case-details-one.dark-bg {
+        padding-bottom: 120px
+    }
+
+    .vcamp-footer-four .footer-nav li > a {
+        font-size: 16px
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    h1 {
+        font-size: 80px
+    }
+}
+
+@media (max-width: 991px) {
+    h1 {
+        font-size: 60px
+    }
+
+    .vcamp-footer-four .footer-nav .logo {
+        position: absolute;
+        top: 30px;
+        left: 50%;
+        transform: translateX(-50%)
+    }
+
+    .vcamp-footer-four .inner-content {
+        padding-bottom: 40px
+    }
+}
+
+@media (max-width: 767px) {
+    .vcamp-footer-one .bg-wrapper {
+        padding: 50px 0
+    }
+
+    .vcamp-footer-one.dark-bg {
+        padding-top: 150px
+    }
+}
+
+@media (max-width: 575px) {
+    .vcamp-footer-one .top-footer .footer-title {
+        font-size: 22px;
+        padding: 0 0 12px
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        padding-right: 0;
+        padding-left: 0
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .hero-banner-two .container {
+        max-width: 1300px
+    }
+
+    .hero-banner-two {
+        height: 1030px
+    }
+
+    .hero-banner-three {
+        height: 1010px
+    }
+
+    .fancy-banner-two {
+        height: 670px
+    }
+
+    .inside-hero-three {
+        padding-bottom: 100px
+    }
+
+    .inside-hero-two {
+        padding: 220px 0 150px
+    }
+}
+
+@media (max-width: 1199px) {
+    body {
+        font-size: 16px
+    }
+
+    .text-lg {
+        font-size: 18px;
+        line-height: 1.85em
+    }
+
+    body .theme-btn-one {
+        font-size: 16px;
+        padding: 0 32px;
+        line-height: 52px
+    }
+
+    .title-style-one .title {
+        font-size: 45px
+    }
+
+    .title-style-two .title {
+        font-size: 42px
+    }
+
+    .title-style-three .title {
+        font-size: 38px
+    }
+
+    .title-style-five .title {
+        font-size: 45px
+    }
+
+    .title-style-nine .title {
+        font-size: 45px
+    }
+
+    .fancy-banner-three .title {
+        font-size: 45px
+    }
+
+    .fancy-banner-one .inner-content {
+        padding: 80px 0 70px
+    }
+
+    .fancy-banner-one p {
+        font-size: 20px;
+        padding-bottom: 15px
+    }
+
+    .fancy-banner-one .theme-btn-one {
+        width: 230px;
+        font-size: 17px;
+        line-height: 60px
+    }
+
+    .fancy-banner-two, .fancy-banner-two.sm {
+        height: 500px
+    }
+
+    .fancy-banner-three .inner-content {
+        padding: 80px 0
+    }
+
+    .fancy-banner-three [class*=theme-btn-] {
+        font-size: 17px;
+        line-height: 50px;
+        width: 180px
+    }
+
+    .case-details-one {
+        padding: 120px 0 70px
+    }
+
+    .case-details-one .title {
+        font-size: 40px;
+        padding-bottom: 25px
+    }
+
+    .case-details-one p {
+        font-size: 18px;
+        padding-bottom: 15px
+    }
+
+    .case-details-one .img-meta {
+        margin: 15px 0 50px
+    }
+
+    .fancy-banner-five .title {
+        font-size: 40px;
+        padding-bottom: 25px
+    }
+
+    .fancy-banner-five .bg-wrapper {
+        padding: 50px 12px
+    }
+
+    .case-details-one.dark-bg {
+        padding-bottom: 120px
+    }
+
+    .inside-hero-nine .page-title {
+        font-size: 45px;
+        margin-bottom: 15px
+    }
+
+    .inside-hero-nine .main-wrapper p {
+        font-size: 18px
+    }
+
+    .inside-hero-nine {
+        padding-top: 140px
+    }
+
+    .inside-hero-nine .main-wrapper {
+        padding-bottom: 50px
+    }
+
+    body .theme-btn-three {
+        font-size: 16px
+    }
+
+    .fancy-banner-nine .title {
+        font-size: 45px
+    }
+
+    .fancy-banner-nine .arrow-btn {
+        width: 70px;
+        height: 70px;
+        line-height: 70px;
+        font-size: 30px;
+        border-radius: 0 35px 0 0
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    h1 {
+        font-size: 80px
+    }
+
+    .hero-banner-two .text-wrapper {
+        max-width: 480px
+    }
+
+    .hero-banner-two {
+        height: 885px;
+        padding-top: 220px
+    }
+
+    .hero-banner-three {
+        height: 910px
+    }
+
+    .inside-hero-one {
+        padding: 80px 0 90px
+    }
+
+    .inside-hero-one .page-title, .inside-hero-three .page-title, .inside-hero-two .page-title {
+        font-size: 60px
+    }
+
+    .inside-hero-three {
+        padding-bottom: 100px
+    }
+
+    .inside-hero-three p {
+        font-size: 22px
+    }
+
+    .inside-hero-two {
+        padding: 200px 0 140px
+    }
+}
+
+@media (max-width: 991px) {
+    h1 {
+        font-size: 60px
+    }
+
+    .case-details-one .shape-one, .hero-banner-two .shape-one, .inside-hero-three .shape-one, .inside-hero-two .shape-one {
+        display: none
+    }
+
+    .hero-banner-two .text-wrapper {
+        max-width: 720px;
+        position: static;
+        padding-bottom: 20px
+    }
+
+    .hero-banner-two {
+        padding: 170px 0 0;
+        height: auto
+    }
+
+    .hero-banner-three {
+        padding-top: 150px
+    }
+
+    .hero-banner-three {
+        height: 100%
+    }
+
+    .inside-hero-one {
+        padding: 70px 0 80px
+    }
+
+    .inside-hero-one .page-title, .inside-hero-three .page-title, .inside-hero-two .page-title {
+        font-size: 45px
+    }
+
+    .inside-hero-one p, .inside-hero-two p {
+        font-size: 18px;
+        padding-top: 8px
+    }
+
+    .inside-hero-three p {
+        font-size: 18px
+    }
+
+    .inside-hero-five, .inside-hero-three {
+        padding: 140px 0 60px
+    }
+
+    .inside-hero-two {
+        padding: 160px 0 90px
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .hero-banner-two .container {
+        max-width: 720px
+    }
+}
+
+@media (max-width: 767px) {
+    .inside-hero-three p {
+        padding-top: 20px
+    }
+
+    .fancy-banner-nine .inner-content {
+        padding: 45px 12px
+    }
+}
+
+@media (max-width: 575px) {
+    .pricing-table-area-one.pr-table-wrapper.most-popular:after {
+        content: " ";
+    }
+    .pricing-section-one.dark-bg .pr-table-wrapper.most-popular:after{
+        content: " ";
+
+    }
+    .case-details-one .title br {
+        display: none
+    }
+}

@@ -1,0 +1,152 @@
+
+.hero-spacing {
+    margin: 135px 65px 0
+}
+
+.title-style-one .title {
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 1.16em;
+    margin-bottom: 0
+}
+
+.title-style-four .title {
+    font-size: 58px;
+    line-height: 1.24em;
+    margin-bottom: 0
+}
+
+.hero-banner-one {
+    position: relative;
+    z-index: 1
+}
+
+.vcamp-text-block-one {
+    position: relative;
+    z-index: 1
+}
+
+.vcamp-text-block-one .text-wrapper {
+    padding-top: 40px
+}
+
+.vcamp-text-block-one .meta-info-text {
+    padding: 45px 0 50px
+}
+
+.vcamp-text-block-one .text-wrapper h6 {
+    font-size: 25px;
+    padding: 65px 0 12px
+}
+
+.vcamp-text-block-one .img-container {
+    padding: 0 0 50px 110px
+}
+
+.contact-meta-one p {
+    padding: 36px 35px 45px 0
+}
+
+.address-block-one .icon {
+    width: 80px;
+    height: 80px;
+    border: 1px solid #e6e6e6;
+    border-radius: 50%
+}
+
+.address-block-one .title {
+    font-size: 24px;
+    padding: 20px 0 14px;
+    margin-bottom: 0
+}
+
+.address-block-one p {
+    font-size: 19px;
+    line-height: 1.65em;
+    color: #878787;
+    margin-bottom: 0
+}
+
+.address-block-one p .call {
+    font-size: 22px;
+    color: var(--red-one)
+}
+
+.address-block-one p .call:hover {
+    text-decoration: underline
+}
+
+.address-block-one p .webaddress {
+    color: var(--heading);
+    text-decoration: underline
+}
+
+.hero-banner-four {
+    margin: 135px 0 -100px;
+    position: relative;
+    background: #161616;
+    z-index: 5
+}
+
+
+.vcamp-text-block-four .text-wrapper {
+    max-width: 660px;
+    padding: 145px 0 130px
+}
+
+.vcamp-text-block-four .text-wrapper .title {
+    font-size: 68px;
+    line-height: 1.17em;
+    color: #fff
+}
+
+.vcamp-text-block-four .text-wrapper p {
+    font-size: 22px;
+    color: #fff;
+    padding: 40px 0 34px
+}
+
+.inside-hero-one {
+    color: #e7e7e7;
+    text-align: center;
+    padding: 105px 0 115px
+}
+
+.inside-hero-one .page-title {
+    font-size: 72px;
+    font-weight: 500
+}
+
+.inside-hero-one p {
+    font-size: 20px;
+    padding-top: 24px;
+    margin-bottom: 0
+}
+
+.inside-hero-four {
+    padding: 130px 0 0;
+    position: relative;
+    z-index: 1
+}
+
+.inside-hero-four h6 {
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: rgba(0, 0, 0, .35);
+    margin-bottom: 0
+}
+
+.inside-hero-four .page-title {
+    font-size: 72px;
+    line-height: 1.25em;
+    padding: 9px 0 25px;
+    margin-bottom: 0
+}
+
+.inside-hero-four p {
+    font-size: 24px;
+    line-height: 1.83em;
+    margin-bottom: 0
+}
+
