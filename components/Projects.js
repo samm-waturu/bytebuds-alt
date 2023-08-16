@@ -1,6 +1,7 @@
 import { gordita, recoleta } from "@/app/fonts/fonts";
 import Footer from "../components/Footer";
 import { CallRounded } from "@mui/icons-material";
+import Link from "next/link";
 
 export default function Projects() {
   return (
@@ -113,7 +114,7 @@ export default function Projects() {
                     </div>
                   </div>
                   <div className="col-xl-4 col-lg-5 col-md-3 d-flex justify-content-md-end justify-content-center">
-                    <a href="#" className="arrow-btn ripple-btn tran3s sm-mt-30"> <CallRounded /></a>
+                    <Link href="/contact" className="arrow-btn ripple-btn tran3s sm-mt-30"> <CallRounded /></Link>
                   </div>
                 </div>
               </div>
