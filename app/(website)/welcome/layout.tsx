@@ -6,6 +6,8 @@ export const metadata: Metadata = {
 
 export default function WelcomeLayout({ children }: { children: React.ReactNode }) {
   return (
-    <>{children}</>
+    <html lang="en">
+    <body>{children}</body>
+    </html>
   );
 }
