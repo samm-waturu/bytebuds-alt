@@ -1,7 +1,7 @@
 "use client";
 
 import "@/utils/jQuery/loader";
-import Index from "@/components";
+import Index from "@/components/Index";
 import { useEffect } from "react";
 import Header from "@/components/Header";
 import SideNav from "@/components/Sidenav";
