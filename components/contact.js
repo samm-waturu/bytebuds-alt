@@ -63,7 +63,7 @@ export default function Contact() {
                     <h5 className="title">Call me</h5>
                   </div>
                   <div className={gordita.className}>
-                    <p>Reach me at
+                    <p>Reach me at 
                       <span>
                       <a href="tel:0768989025" className="call"> Tell</a>
                     </span>
